@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">imageapp</string>
+    <string name="change_image">change image</string>
+</resources>
